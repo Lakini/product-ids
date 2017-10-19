@@ -179,6 +179,7 @@
                 <include>sessionupdater.war</include>
                 <include>saaserver.war</include>
                 <include>selfserviceportal.war</include>
+                <include>premiuminfo.war</include>
 			</includes>
         </fileSet>
 
